@@ -7,4 +7,5 @@
 ### PAC-Fano-crc: PAC码的Fano-crc译码
 ### PAC-Fano-genie: PAC码的精灵辅助译码
 ### PAC-Fano-parallel: PAC码的Fano并行译码
+(可能存在错误，欢迎与作者交流讨论，邮箱:2634747513@qq.com)
 
